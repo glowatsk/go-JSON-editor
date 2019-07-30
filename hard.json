@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "5d407e69ec0706a16e4b4fad",
+      "index": 0,
+      "guid": "195a6f2e-89fe-481a-a608-43267e39dc8e",
+      "isActive": false,
+      "balance": "$3,197.86",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "green",
+      "name": "Elsie Montgomery",
+      "gender": "female",
+      "company": "TETAK",
+      "email": "elsiemontgomery@tetak.com",
+      "phone": "+1 (954) 494-2183",
+      "address": "472 Neptune Court, Roosevelt, Mississippi, 5690",
+      "about": "Eu do minim ipsum aliqua. Anim proident voluptate aliquip enim fugiat. Pariatur reprehenderit labore nulla dolor sit exercitation. Elit eu ex et nulla deserunt aliquip deserunt aute adipisicing laborum aute tempor officia Lorem.\r\n",
+      "registered": "2016-11-25T04:29:14 -00:00",
+      "latitude": 19.144989,
+      "longitude": 23.442168,
+      "tags": [
+        "magna",
+        "nisi",
+        "ex",
+        "officia",
+        "dolore",
+        "culpa",
+        "commodo"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Bridget Cain"
+        },
+        {
+          "id": 1,
+          "name": "Aurora Juarez"
+        },
+        {
+          "id": 2,
+          "name": "Mariana Barton"
+        }
+      ],
+      "greeting": "Hello, Elsie Montgomery! You have 6 unread messages.",
+      "favoriteFruit": "banana"
+    }
+]
